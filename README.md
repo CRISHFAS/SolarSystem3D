@@ -1,16 +1,30 @@
-# Solar System
+# Solar System en 3D
 
-All textures were taken from: https://planetpixelemporium.com/planets.html
+## Descripción
 
-## Quick Start
+Creada una aplicación del Sistema Solar en 3D utilizando JavaScript, Vite, HTML y Three.js. La aplicación simula el sistema solar en tiempo real, permitiendo a los usuarios explorar los planetas y sus órbitas a través de animaciones dinámicas. 
 
-1. Install dependencies
+Se empleó Three.js para el renderizado 3D, Vite para un desarrollo rápido y empaquetado, y HTML para estructurar la aplicación. La app ofrece una experiencia visual inmersiva, integrando movimientos orbitales, rotaciones planetarias y efectos de iluminación.
+
+Todas las texturas fueron tomadas de: [Planet Pixel Emporium](https://planetpixelemporium.com/planets.html)
+
+## Demo
+
+Puedes ver una demostración en [enlace a la demostración].
+
+## Instalación
+
+Sigue estos pasos para instalar y ejecutar la aplicación en tu entorno local:
+
+1. **Instalar dependencias**
+
+   Ejecuta el siguiente comando para instalar las dependencias necesarias:
 
 ```sh
 npm i
 ```
 
-2. run the app
+2. **Inicia la aplicación con el siguiente comando**
 
 ```sh
 npm run dev
