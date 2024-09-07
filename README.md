@@ -6,7 +6,7 @@ Creada una aplicación del Sistema Solar en 3D utilizando JavaScript, Vite, HTML
 
 Se empleó Three.js para el renderizado 3D, Vite para un desarrollo rápido y empaquetado, y HTML para estructurar la aplicación. La app ofrece una experiencia visual inmersiva, integrando movimientos orbitales, rotaciones planetarias y efectos de iluminación.
 
-Todas las texturas fueron tomadas de: [Planet Pixel Emporium](https://planetpixelemporium.com/planets.html)
+Todas las texturas fueron tomadas de: [Planet Pixel Emporium]([https://planetpixelemporium.com/planets.html](https://drive.google.com/file/d/1XgLFw0tzvK_JQG8JltMOj22CvVDNUlA9/view?usp=sharing))
 
 ## Demo
 
@@ -29,3 +29,5 @@ npm i
 ```sh
 npm run dev
 ```
+
+
