@@ -1,4 +1,6 @@
 # Solar System en 3D
+![image](https://github.com/user-attachments/assets/8c6c9dd0-ba22-4ef4-b4f5-674a8db4b92a)
+
 
 ## Descripción
 
